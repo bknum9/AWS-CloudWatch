@@ -6,3 +6,8 @@
 2 - CloudWatch Logs agent has been set up successfully on the web server
 <img width="1438" alt="Screenshot 2024-10-01 at 9 05 14 PM" src="https://github.com/user-attachments/assets/67871f4b-1682-4295-ac49-61f763d7e02a"></br>
 3 - Checking the log events in CloudWatch for the agent we set up on our server
+<h2>Creating AWS Tags and Resource Groups</h2>
+<img width="1438" alt="tag1" src="https://github.com/user-attachments/assets/334d7caa-184c-4e0d-ad5a-168a2a285168">
+1 - Creating a resource group for a couple EC2 instances and an S3 bucket that have already been tagged
+<img width="1438" alt="tag2" src="https://github.com/user-attachments/assets/fa9bb3fd-98d3-49ea-84ff-c7c63894e600">
+2 - Checking CloudWatch to see the information gathered from one of our created resource groups
